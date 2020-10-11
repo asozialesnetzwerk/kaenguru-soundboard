@@ -7,7 +7,7 @@ Ein Repo mit kurzen Sounds aus den Känguru-Chroniken.
 - Leerzeichen sollten durch Unterstriche ersetzt werden.
 - Am Ende folgt die Dateiendung ".mp3".
 - z.B.: "muk-i_am_bored.mp3"
-- In [SOUNDS.md](SOUNDS.md) sollte man schreiben, woher die Sounds kommen.
+- In [INDEX.md](INDEX.md) steht, woher alle Sounds kommen.
 
 # Abkürzungen für Namen:
 - Marc-Uwe Kling: "muk"
