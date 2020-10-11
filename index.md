@@ -14,7 +14,7 @@
 - [muk-im_just_for_the_famous_breakfast](muk-im_just_for_the_famous_breakfast.mp3)
 - [sarah-i_love_life](sarah-i_love_life.mp3)
 - [sarah-yes_its_just_perfect](sarah-yes_its_just_perfect.mp3)
-- [sarah-yes_its_just_perfect](sarah-yes_its_just_perfect.mp3)
+- [sarah-the_world_is_so_beautiful](sarah-the_world_is_so_beautiful.mp3)
 - [sarah-thats_amazing-its-like_you_know_i_idk_kind_of_like_whatever_and_stuff](sarah-thats_amazing-its-like_you_know_i_idk_kind_of_like_whatever_and_stuff.mp3)
 
 ## Teil 2, Kapitel 7 - Das zähe Verfließen der Zeit, genannt Leben:
