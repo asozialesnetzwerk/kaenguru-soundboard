@@ -11,6 +11,7 @@
 # Die Känguru-Offenbarung
 
 ## Teil 2, Kapitel 5 - Whatever:
+- [muk-im_just_for_the_famous_breakfast](muk-im_just_for_the_famous_breakfast.mp3)
 - [sarah-i_love_life](sarah-i_love_life.mp3)
 - [sarah-yes_its_just_perfect](sarah-yes_its_just_perfect.mp3)
 - [sarah-yes_its_just_perfect](sarah-yes_its_just_perfect.mp3)
