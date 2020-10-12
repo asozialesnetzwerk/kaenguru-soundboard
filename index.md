@@ -11,6 +11,7 @@
 -  [känguru-ich_bin_kommunist](känguru-ich_bin_kommunist.mp3)
 - [känguru-köstlich](känguru-köstlich.mp3)
 - [känguru-hier_sind_wir_jetzt_unterhalte_uns](känguru-hier_sind_wir_jetzt_unterhalte_uns.mp3)
+- [känguru_wolln_wir_uns_dutzen](känguru_wolln_wir_uns_dutzen.mp3)
 
 
 # Das Känguru-Manifest
