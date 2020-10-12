@@ -18,6 +18,8 @@
 - [känguru-ich_darf_nich_und_ich_will_nich](känguru-ich_darf_nich_und_ich_will_nich.mp3)
 - [känguru-alles_kapitalismus_alles_nestle_alles_hähnchen](känguru-alles_kapitalismus_alles_nestle_alles_hähnchen.mp3)
 
+## Kapitel 4 - 69 Cent pro Minute: (Sehr alte Version)
+- [känguru-ja_ja](känguru-ja_ja.mp3)
 
 
 # Das Känguru-Manifest
