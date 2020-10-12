@@ -12,6 +12,8 @@
 - [känguru-köstlich](känguru-köstlich.mp3)
 - [känguru-hier_sind_wir_jetzt_unterhalte_uns](känguru-hier_sind_wir_jetzt_unterhalte_uns.mp3)
 - [känguru_wolln_wir_uns_dutzen](känguru_wolln_wir_uns_dutzen.mp3)
+- [muk-von_mir_aus](muk-von_mir_aus.mp3)
+
 
 
 # Das Känguru-Manifest
