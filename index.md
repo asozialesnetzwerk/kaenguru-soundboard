@@ -8,6 +8,12 @@
 - [känguru-aber_nicht_zu_lidl](känguru-aber_nicht_zu_lidl.mp3)
 
 
+# Das Känguru-Manifest
+
+## Kapitel 1 - Intro:
+- [muk-für_nichts_und_wieder_nichts](muk-für_nichts_und_wieder_nichts.mp3)
+
+
 # Die Känguru-Offenbarung
 
 ## Teil 2, Kapitel 5 - Whatever:
