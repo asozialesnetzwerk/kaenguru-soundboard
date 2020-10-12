@@ -39,3 +39,6 @@
 # Die Känguru-Apokryphen
 ## Kapitel 34 - Einfach so:
 - [dietmar-ich_hab_seine_hausaufgaben_aufgegessen](dietmar-ich_hab_seine_hausaufgaben_aufgegessen.mp3)
+
+## Kapitel 48 - Die neue Nachbarin:
+- [muk-und_da_ist_mir_aufgefallen_dass_ich_keine_eier_hab](muk-und_da_ist_mir_aufgefallen_dass_ich_keine_eier_hab.mp3)
