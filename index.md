@@ -24,6 +24,7 @@
 
 ## Teil 2, Kapitel 13 - Die durch die Hölle gehen:
 - [sarah-well_thats_just_like_you_know_amazing](sarah-well_thats_just_like_you_know_amazing.mp3)
+- [känguru-this_kinda_feels_really_awesome](känguru-this_kinda_feels_really_awesome.mp3)
 
 
 # Die Känguru-Apokryphen
