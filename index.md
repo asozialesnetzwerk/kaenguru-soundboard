@@ -42,3 +42,4 @@
 
 ## Kapitel 48 - Die neue Nachbarin:
 - [muk-und_da_ist_mir_aufgefallen_dass_ich_keine_eier_hab](muk-und_da_ist_mir_aufgefallen_dass_ich_keine_eier_hab.mp3)
+- [gott-so_so_du_hast_also_keine_eier](gott-so_so_du_hast_also_keine_eier.mp3)
