@@ -1,11 +1,14 @@
 # Die Känguru-Chroniken:
 
-## CD01, Kapitel 1 - Das Känguru von gegenüber: (Sehr alte Version)
+## Kapitel 1 - Das Känguru von gegenüber: (Sehr alte Version)
 - [muk-ja_herzlich_willkommen](muk-ja_herzlich_willkommen.mp3)
 - [känguru-hallo](känguru-hallo.mp3)
 - [känguru-ohh_hee](känguru-ohh_hee.mp3)
 - [känguru-kein_problem_ich_hab_zeit](känguru-kein_problem_ich_hab_zeit.mp3)
 - [känguru-aber_nicht_zu_lidl](känguru-aber_nicht_zu_lidl.mp3)
+
+## Kapitel 2 - Kleinkunst: (Sehr alte Version)
+-  [känguru-ich_bin_kommunist](känguru-ich_bin_kommunist.mp3)
 
 
 # Das Känguru-Manifest
