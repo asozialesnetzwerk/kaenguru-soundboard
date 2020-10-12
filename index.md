@@ -8,11 +8,14 @@
 - [känguru-aber_nicht_zu_lidl](känguru-aber_nicht_zu_lidl.mp3)
 
 ## Kapitel 2 - Kleinkunst: (Sehr alte Version)
--  [känguru-ich_bin_kommunist](känguru-ich_bin_kommunist.mp3)
+- [känguru-ich_bin_kommunist](känguru-ich_bin_kommunist.mp3)
 - [känguru-köstlich](känguru-köstlich.mp3)
 - [känguru-hier_sind_wir_jetzt_unterhalte_uns](känguru-hier_sind_wir_jetzt_unterhalte_uns.mp3)
 - [känguru_wolln_wir_uns_dutzen](känguru_wolln_wir_uns_dutzen.mp3)
 - [muk-von_mir_aus](muk-von_mir_aus.mp3)
+
+## Kapitel 3 - Tütensuppentotalitarismus: (Sehr alte Version)
+- [känguru-ich_darf_nich_und_ich_will_nich](känguru-ich_darf_nich_und_ich_will_nich.mp3)
 
 
 
