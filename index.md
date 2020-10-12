@@ -9,13 +9,15 @@
 
 ## Kapitel 2 - Kleinkunst: (Sehr alte Version)
 -  [känguru-ich_bin_kommunist](känguru-ich_bin_kommunist.mp3)
+- [känguru-köstlich](känguru-köstlich.mp3)
+- [känguru-hier_sind_wir_jetzt_unterhalte_uns](känguru-hier_sind_wir_jetzt_unterhalte_uns.mp3)
 
 
 # Das Känguru-Manifest
 
 ## Kapitel 1 - Intro:
 - [muk-für_nichts_und_wieder_nichts](muk-für_nichts_und_wieder_nichts.mp3)
-- [känguru-köstlich](känguru-köstlich.mp3)
+
 
 # Die Känguru-Offenbarung
 
