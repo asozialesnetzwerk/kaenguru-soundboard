@@ -26,6 +26,7 @@
 - [sarah-well_thats_just_like_you_know_amazing](sarah-well_thats_just_like_you_know_amazing.mp3)
 - [känguru-this_kinda_feels_really_awesome](känguru-this_kinda_feels_really_awesome.mp3)
 - [känguru-i_love_it](känguru-i_love_it.mp3)
+- [känguru-im_so_happy_for_no_reason_but_i_dont_care](känguru-im_so_happy_for_no_reason_but_i_dont_care.mp3)
 
 
 # Die Känguru-Apokryphen
