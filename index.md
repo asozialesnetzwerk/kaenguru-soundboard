@@ -16,6 +16,7 @@
 
 ## Kapitel 3 - Tütensuppentotalitarismus: (Sehr alte Version)
 - [känguru-ich_darf_nich_und_ich_will_nich](känguru-ich_darf_nich_und_ich_will_nich.mp3)
+- [känguru-alles_kapitalismus_alles_nestle_alles_hähnchen](känguru-alles_kapitalismus_alles_nestle_alles_hähnchen.mp3)
 
 
 
