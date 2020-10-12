@@ -22,6 +22,10 @@
 - [muk-i_am_bored](muk-i_am_bored.mp3)
 - [muk-i_am_bored_in_the_usa](muk-i_am_bored_in_the_usa.mp3)
 
+## Teil 2, Kapitel 13 - Die durch die Hölle gehen:
+- [sarah-well_thats_just_like_you_know_amazing](sarah-well_thats_just_like_you_know_amazing.mp3)
+
+
 # Die Känguru-Apokryphen
 ## Kapitel 34 - Einfach so:
 - [dietmar-ich_hab_seine_hausaufgaben_aufgegessen](dietmar-ich_hab_seine_hausaufgaben_aufgegessen.mp3)
