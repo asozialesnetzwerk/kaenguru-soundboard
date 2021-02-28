@@ -21,6 +21,9 @@
 ## Kapitel 4 - 69 Cent pro Minute: (Sehr alte Version)
 - [känguru-ja_ja](känguru-ja_ja.mp3)
 
+## Kapitel 44 - Eine nette Teegesellschaft:
+- [psychiater-aha](psychiater-aha.mp3)
+
 
 # Das Känguru-Manifest
 
