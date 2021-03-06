@@ -1,0 +1,127 @@
+{
+  "personen": {
+    "muk":  "Marc-Uwe Kling",
+    "känguru": "Das Känguru",
+    "gott": "Maria (Gott)",
+    "fw": "Friedrich-Wilhelm",
+    "otto": "Otto-Von",
+    "pinguin": "Der Pinguin",
+    "kuh": "Julia Müller",
+    "lektor": "Der Lektor",
+    "sarah": "Sarah",
+    "schredder": "Der Schredder",
+    "psychiater": "Der Psychiater",
+    "dietmar": "Dietmar Kötke",
+    "wenzel": "Wenzel R.R. Skowronek",
+    "dwigs1": "Jörg Dwigs",
+    "dwigs2": "Jörn Dwigs"
+  },
+  "bücher": [
+    {
+      "name": "Die Känguru-Chroniken",
+      "kapitel": [
+        {
+          "name": "Kapitel 1 - Das Känguru von gegenüber: (Sehr alte Version)",
+          "dateien": [
+            "muk-ja_herzlich_willkommen",
+            "känguru-hallo",
+            "känguru-ohh_hee",
+            "känguru-kein_problem_ich_hab_zeit",
+            "känguru-aber_nicht_zu_lidl"
+          ]
+        },
+        {
+          "name": "Kapitel 2 - Kleinkunst: (Sehr alte Version)",
+          "dateien": [
+            "känguru-ich_bin_kommunist",
+            "känguru-köstlich",
+            "känguru-hier_sind_wir_jetzt_unterhalte_uns",
+            "känguru-wolln_wir_uns_dutzen",
+            "muk-von_mir_aus"
+          ]
+        },
+        {
+          "name": "Kapitel 3 - Tütensuppentotalitarismus: (Sehr alte Version)",
+          "dateien": [
+            "känguru-ich_darf_nich_und_ich_will_nich",
+            "känguru-alles_kapitalismus_alles_nestle_alles_hähnchen"
+          ]
+        },
+        {
+          "name": "Kapitel 4 - 69 Cent pro Minute: (Sehr alte Version)",
+          "dateien": [
+            "känguru-ja_ja.mp3"
+          ]
+        },
+        {
+          "name": "Kapitel 44 - Eine nette Teegesellschaft:",
+          "dateien": [
+            "psychiater-aha"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Das Känguru-Manifest",
+      "kapitel": [
+        {
+          "name": "Kapitel 1 - Intro:",
+          "dateien": [
+            "muk-für_nichts_und_wieder_nichts"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Die Känguru-Offenbarung",
+      "kapitel": [
+        {
+          "name": "Teil 2, Kapitel 5 - Whatever:",
+          "dateien": [
+            "muk-im_just_for_the_famous_breakfast",
+            "muk-yeah",
+            "sarah-i_love_life",
+            "sarah-yes_its_just_perfect",
+            "sarah-the_world_is_so_beautiful",
+            "sarah-thats_amazing-its-like_you_know_i_idk_kind_of_like_whatever_and_stuff"
+          ]
+        },
+        {
+          "name": "Teil 2, Kapitel 7 - Das zähe Verfließen der Zeit, genannt Leben:",
+          "dateien": [
+            "muk-i_am_bored",
+            "muk-i_am_bored_in_the_usa"
+          ]
+        },
+        {
+          "name": "Teil 2, Kapitel 13 - Die durch die Hölle gehen:",
+          "dateien": [
+            "sarah-well_thats_just_like_you_know_amazing",
+            "sarah-hey_thats_cool",
+            "känguru-this_kinda_feels_really_awesome",
+            "känguru-i_love_it",
+            "känguru-im_so_happy_for_no_reason_but_i_dont_care"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Die Känguru-Apokryphen",
+      "kapitel": [
+        {
+          "name": "Kapitel 34 - Einfach so:",
+          "dateien": [
+            "dietmar-ich_hab_seine_hausaufgaben_aufgegessen"
+          ]
+        },
+        {
+          "name": "Kapitel 48 - Die neue Nachbarin:",
+          "dateien": [
+            "muk-und_da_ist_mir_aufgefallen_dass_ich_keine_eier_hab",
+            "gott-so_so_du_hast_also_keine_eier"
+          ]
+        }
+      ]
+    }
+  ]
+}

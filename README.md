@@ -3,7 +3,7 @@ Ein Repo mit kurzen Sounds aus den Känguru-Chroniken.
 
 #How-to-use:
 - Auf Linux kann man z.B. [Soundux](https://github.com/D3SOX/Soundux) nutzen.
-- Auf Windows kann man z.B. [JN Soundboard](https://gitlab.com/Jitnaught/JNSoundboard/-/blob/master/README.md) in Kombination mit [Voicemeeter](https://vb-audio.com/Voicemeeter/index.htm) nutzen.
+- Auf Windows kann man z.B. [JN Soundboard](https://gitlab.com/Jitnaught/JNSoundboard/-/blob/master/README.md) in Kombination mit [Virtual Audio Cable](https://software.muzychenko.net/trials/vac460.exe) nutzen.
 
 
 # Wichtig:
@@ -12,7 +12,7 @@ Ein Repo mit kurzen Sounds aus den Känguru-Chroniken.
 - Leerzeichen sollten durch Unterstriche ersetzt werden.
 - Am Ende folgt die Dateiendung ".mp3".
 - z.B.: "muk-i_am_bored.mp3"
-- In [index.md](index.md) stehen alle Sounds, nach Büchern und Kapiteln sortiert.
+- In [info.json](info.json) stehen alle Sounds, nach Büchern und Kapiteln sortiert.
 
 # Abkürzungen für Namen:
 - Marc-Uwe Kling: "muk"
@@ -25,6 +25,6 @@ Ein Repo mit kurzen Sounds aus den Känguru-Chroniken.
 - Der Schredder: "schredder"
 - Der Psychiater: "psychiater"
 - Dietmar Kötke: "dietmar"
-- Wenzel R.R. Skowronek: "Wenzel"
-- Jörg Dwigs: "dwigs"
-- Jörn Dwigs: "dwigs"
+- Wenzel R.R. Skowronek: "wenzel"
+- Jörg Dwigs: "dwigs1"
+- Jörn Dwigs: "dwigs2"
