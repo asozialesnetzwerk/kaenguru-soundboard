@@ -1,10 +1,8 @@
 # Känguru Soundboard
 Ein Repo mit kurzen Sounds aus den Känguru-Chroniken.
 
-#How-to-use:
-- Auf Linux kann man z.B. [Soundux](https://github.com/D3SOX/Soundux) nutzen.
-- Auf Windows kann man z.B. [JN Soundboard](https://gitlab.com/Jitnaught/JNSoundboard/-/blob/master/README.md) in Kombination mit [Virtual Audio Cable](https://software.muzychenko.net/trials/vac460.exe) nutzen.
-
+# How-to-use:
+- Auf GNU/Linux und Windows kann man z.B. [Soundux](https://github.com/D3SOX/Soundux) nutzen.
 
 # Wichtig:
 - ALle Dateien sollten mit dem Namen des Sprechers beginnen.
