@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
-echo "<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+echo "<?xml version=\"1.0\" encoding=\"UTF-8\"?>
+<rss version=\"2.0\">
   <channel>
     <title>Kaenguru Soundboard</title>
     <description>Ein Soundboard zu den Känguru Chroniken</description>
