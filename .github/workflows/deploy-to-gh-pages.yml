@@ -17,6 +17,14 @@ jobs:
                 mkdir build
                 python3 build.py
 
+            - name: Create feed.rss
+              run: |
+                cd rss
+                cp ../files/* ./
+                find *.mp3/ | xargs -L1 ./makeitem.sh | ./makefeed.sh > feed.rss
+                cd ../
+                cp rss/feed.rss build/feed.rss
+
             - name: Copy files
               run: |
                 cp -r files build/files
