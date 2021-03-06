@@ -13,7 +13,7 @@ rssstring = '''<?xml version="1.0" encoding="UTF-8"?>
 '''
 itemstring = '''    <item>
       <title>{title}</title>
-      <enclosure url="https://asozial.org/kaenguru-soundboard/files/{filename}"
+      <enclosure url="https://asozial.org/kaenguru-soundboard/files/{filename}.mp3"
                  type="audio/mpeg">
       <guid>{filename}</guid>
     </item>'''
