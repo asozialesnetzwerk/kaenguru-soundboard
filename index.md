@@ -2,6 +2,11 @@
 
 ## Kapitel 1 - Das Känguru von gegenüber: (Sehr alte Version)
 - [muk-ja_herzlich_willkommen](muk-ja_herzlich_willkommen.mp3)
+
+<audio controls>
+  <source src="muk-ja_herzlich_willkommen.mp3" type="audio/mpeg">
+ </audio>
+  
 - [känguru-hallo](känguru-hallo.mp3)
 - [känguru-ohh_hee](känguru-ohh_hee.mp3)
 - [känguru-kein_problem_ich_hab_zeit](känguru-kein_problem_ich_hab_zeit.mp3)
