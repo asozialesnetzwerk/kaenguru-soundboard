@@ -1,5 +1,5 @@
-<?xml version=1.0 encoding=UTF-8?>
-<rss version=2.0>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
   <channel>
     <title>Kaenguru Soundboard</title>
     <description>Ein Soundboard zu den Känguru Chroniken</description>
@@ -7,188 +7,188 @@
     <link>https://asozial.org/kaenguru-soundboard</link>
         <item>
       <title>dietmar-ich_hab_seine_hausaufgaben_aufgegessen.mp3</title>
-      <enclosure url=https://asozial.org/kaenguru-soundboard/dietmar-ich_hab_seine_hausaufgaben_aufgegessen.mp3
-                 type=audio/mpeg>
+      <enclosure url="https://asozial.org/kaenguru-soundboard/dietmar-ich_hab_seine_hausaufgaben_aufgegessen.mp3"
+                 type="audio/mpeg">
       <guid>dietmar-ich_hab_seine_hausaufgaben_aufgegessen.mp3</guid>
     </item>
     <item>
       <title>gott-so_so_du_hast_also_keine_eier.mp3</title>
-      <enclosure url=https://asozial.org/kaenguru-soundboard/gott-so_so_du_hast_also_keine_eier.mp3
-                 type=audio/mpeg>
+      <enclosure url="https://asozial.org/kaenguru-soundboard/gott-so_so_du_hast_also_keine_eier.mp3"
+                 type="audio/mpeg">
       <guid>gott-so_so_du_hast_also_keine_eier.mp3</guid>
     </item>
     <item>
       <title>känguru-aber_nicht_zu_lidl.mp3</title>
-      <enclosure url=https://asozial.org/kaenguru-soundboard/känguru-aber_nicht_zu_lidl.mp3
-                 type=audio/mpeg>
+      <enclosure url="https://asozial.org/kaenguru-soundboard/känguru-aber_nicht_zu_lidl.mp3"
+                 type="audio/mpeg">
       <guid>känguru-aber_nicht_zu_lidl.mp3</guid>
     </item>
     <item>
       <title>känguru-alles_kapitalismus_alles_nestle_alles_hähnchen.mp3</title>
-      <enclosure url=https://asozial.org/kaenguru-soundboard/känguru-alles_kapitalismus_alles_nestle_alles_hähnchen.mp3
-                 type=audio/mpeg>
+      <enclosure url="https://asozial.org/kaenguru-soundboard/känguru-alles_kapitalismus_alles_nestle_alles_hähnchen.mp3"
+                 type="audio/mpeg">
       <guid>känguru-alles_kapitalismus_alles_nestle_alles_hähnchen.mp3</guid>
     </item>
     <item>
       <title>känguru-hallo.mp3</title>
-      <enclosure url=https://asozial.org/kaenguru-soundboard/känguru-hallo.mp3
-                 type=audio/mpeg>
+      <enclosure url="https://asozial.org/kaenguru-soundboard/känguru-hallo.mp3"
+                 type="audio/mpeg">
       <guid>känguru-hallo.mp3</guid>
     </item>
     <item>
       <title>känguru-hier_sind_wir_jetzt_unterhalte_uns.mp3</title>
-      <enclosure url=https://asozial.org/kaenguru-soundboard/känguru-hier_sind_wir_jetzt_unterhalte_uns.mp3
-                 type=audio/mpeg>
+      <enclosure url="https://asozial.org/kaenguru-soundboard/känguru-hier_sind_wir_jetzt_unterhalte_uns.mp3"
+                 type="audio/mpeg">
       <guid>känguru-hier_sind_wir_jetzt_unterhalte_uns.mp3</guid>
     </item>
     <item>
       <title>känguru-ich_bin_kommunist.mp3</title>
-      <enclosure url=https://asozial.org/kaenguru-soundboard/känguru-ich_bin_kommunist.mp3
-                 type=audio/mpeg>
+      <enclosure url="https://asozial.org/kaenguru-soundboard/känguru-ich_bin_kommunist.mp3"
+                 type="audio/mpeg">
       <guid>känguru-ich_bin_kommunist.mp3</guid>
     </item>
     <item>
       <title>känguru-ich_darf_nich_und_ich_will_nich.mp3</title>
-      <enclosure url=https://asozial.org/kaenguru-soundboard/känguru-ich_darf_nich_und_ich_will_nich.mp3
-                 type=audio/mpeg>
+      <enclosure url="https://asozial.org/kaenguru-soundboard/känguru-ich_darf_nich_und_ich_will_nich.mp3"
+                 type="audio/mpeg">
       <guid>känguru-ich_darf_nich_und_ich_will_nich.mp3</guid>
     </item>
     <item>
       <title>känguru-i_love_it.mp3</title>
-      <enclosure url=https://asozial.org/kaenguru-soundboard/känguru-i_love_it.mp3
-                 type=audio/mpeg>
+      <enclosure url="https://asozial.org/kaenguru-soundboard/känguru-i_love_it.mp3"
+                 type="audio/mpeg">
       <guid>känguru-i_love_it.mp3</guid>
     </item>
     <item>
       <title>känguru-im_so_happy_for_no_reason_but_i_dont_care.mp3</title>
-      <enclosure url=https://asozial.org/kaenguru-soundboard/känguru-im_so_happy_for_no_reason_but_i_dont_care.mp3
-                 type=audio/mpeg>
+      <enclosure url="https://asozial.org/kaenguru-soundboard/känguru-im_so_happy_for_no_reason_but_i_dont_care.mp3"
+                 type="audio/mpeg">
       <guid>känguru-im_so_happy_for_no_reason_but_i_dont_care.mp3</guid>
     </item>
     <item>
       <title>känguru-ja_ja.mp3</title>
-      <enclosure url=https://asozial.org/kaenguru-soundboard/känguru-ja_ja.mp3
-                 type=audio/mpeg>
+      <enclosure url="https://asozial.org/kaenguru-soundboard/känguru-ja_ja.mp3"
+                 type="audio/mpeg">
       <guid>känguru-ja_ja.mp3</guid>
     </item>
     <item>
       <title>känguru-kein_problem_ich_hab_zeit.mp3</title>
-      <enclosure url=https://asozial.org/kaenguru-soundboard/känguru-kein_problem_ich_hab_zeit.mp3
-                 type=audio/mpeg>
+      <enclosure url="https://asozial.org/kaenguru-soundboard/känguru-kein_problem_ich_hab_zeit.mp3"
+                 type="audio/mpeg">
       <guid>känguru-kein_problem_ich_hab_zeit.mp3</guid>
     </item>
     <item>
       <title>känguru-köstlich.mp3</title>
-      <enclosure url=https://asozial.org/kaenguru-soundboard/känguru-köstlich.mp3
-                 type=audio/mpeg>
+      <enclosure url="https://asozial.org/kaenguru-soundboard/känguru-köstlich.mp3"
+                 type="audio/mpeg">
       <guid>känguru-köstlich.mp3</guid>
     </item>
     <item>
       <title>känguru-ohh_hee.mp3</title>
-      <enclosure url=https://asozial.org/kaenguru-soundboard/känguru-ohh_hee.mp3
-                 type=audio/mpeg>
+      <enclosure url="https://asozial.org/kaenguru-soundboard/känguru-ohh_hee.mp3"
+                 type="audio/mpeg">
       <guid>känguru-ohh_hee.mp3</guid>
     </item>
     <item>
       <title>känguru-this_kinda_feels_really_awesome.mp3</title>
-      <enclosure url=https://asozial.org/kaenguru-soundboard/känguru-this_kinda_feels_really_awesome.mp3
-                 type=audio/mpeg>
+      <enclosure url="https://asozial.org/kaenguru-soundboard/känguru-this_kinda_feels_really_awesome.mp3"
+                 type="audio/mpeg">
       <guid>känguru-this_kinda_feels_really_awesome.mp3</guid>
     </item>
     <item>
       <title>känguru_wolln_wir_uns_dutzen.mp3</title>
-      <enclosure url=https://asozial.org/kaenguru-soundboard/känguru_wolln_wir_uns_dutzen.mp3
-                 type=audio/mpeg>
+      <enclosure url="https://asozial.org/kaenguru-soundboard/känguru_wolln_wir_uns_dutzen.mp3"
+                 type="audio/mpeg">
       <guid>känguru_wolln_wir_uns_dutzen.mp3</guid>
     </item>
     <item>
       <title>muk-für_nichts_und_wieder_nichts.mp3</title>
-      <enclosure url=https://asozial.org/kaenguru-soundboard/muk-für_nichts_und_wieder_nichts.mp3
-                 type=audio/mpeg>
+      <enclosure url="https://asozial.org/kaenguru-soundboard/muk-für_nichts_und_wieder_nichts.mp3"
+                 type="audio/mpeg">
       <guid>muk-für_nichts_und_wieder_nichts.mp3</guid>
     </item>
     <item>
       <title>muk-i_am_bored_in_the_usa.mp3</title>
-      <enclosure url=https://asozial.org/kaenguru-soundboard/muk-i_am_bored_in_the_usa.mp3
-                 type=audio/mpeg>
+      <enclosure url="https://asozial.org/kaenguru-soundboard/muk-i_am_bored_in_the_usa.mp3"
+                 type="audio/mpeg">
       <guid>muk-i_am_bored_in_the_usa.mp3</guid>
     </item>
     <item>
       <title>muk-i_am_bored.mp3</title>
-      <enclosure url=https://asozial.org/kaenguru-soundboard/muk-i_am_bored.mp3
-                 type=audio/mpeg>
+      <enclosure url="https://asozial.org/kaenguru-soundboard/muk-i_am_bored.mp3"
+                 type="audio/mpeg">
       <guid>muk-i_am_bored.mp3</guid>
     </item>
     <item>
       <title>muk-im_just_for_the_famous_breakfast.mp3</title>
-      <enclosure url=https://asozial.org/kaenguru-soundboard/muk-im_just_for_the_famous_breakfast.mp3
-                 type=audio/mpeg>
+      <enclosure url="https://asozial.org/kaenguru-soundboard/muk-im_just_for_the_famous_breakfast.mp3"
+                 type="audio/mpeg">
       <guid>muk-im_just_for_the_famous_breakfast.mp3</guid>
     </item>
     <item>
       <title>muk-ja_herzlich_willkommen.mp3</title>
-      <enclosure url=https://asozial.org/kaenguru-soundboard/muk-ja_herzlich_willkommen.mp3
-                 type=audio/mpeg>
+      <enclosure url="https://asozial.org/kaenguru-soundboard/muk-ja_herzlich_willkommen.mp3"
+                 type="audio/mpeg">
       <guid>muk-ja_herzlich_willkommen.mp3</guid>
     </item>
     <item>
       <title>muk-und_da_ist_mir_aufgefallen_dass_ich_keine_eier_hab.mp3</title>
-      <enclosure url=https://asozial.org/kaenguru-soundboard/muk-und_da_ist_mir_aufgefallen_dass_ich_keine_eier_hab.mp3
-                 type=audio/mpeg>
+      <enclosure url="https://asozial.org/kaenguru-soundboard/muk-und_da_ist_mir_aufgefallen_dass_ich_keine_eier_hab.mp3"
+                 type="audio/mpeg">
       <guid>muk-und_da_ist_mir_aufgefallen_dass_ich_keine_eier_hab.mp3</guid>
     </item>
     <item>
       <title>muk-von_mir_aus.mp3</title>
-      <enclosure url=https://asozial.org/kaenguru-soundboard/muk-von_mir_aus.mp3
-                 type=audio/mpeg>
+      <enclosure url="https://asozial.org/kaenguru-soundboard/muk-von_mir_aus.mp3"
+                 type="audio/mpeg">
       <guid>muk-von_mir_aus.mp3</guid>
     </item>
     <item>
       <title>muk-yeah.mp3</title>
-      <enclosure url=https://asozial.org/kaenguru-soundboard/muk-yeah.mp3
-                 type=audio/mpeg>
+      <enclosure url="https://asozial.org/kaenguru-soundboard/muk-yeah.mp3"
+                 type="audio/mpeg">
       <guid>muk-yeah.mp3</guid>
     </item>
     <item>
       <title>psychiater-aha.mp3</title>
-      <enclosure url=https://asozial.org/kaenguru-soundboard/psychiater-aha.mp3
-                 type=audio/mpeg>
+      <enclosure url="https://asozial.org/kaenguru-soundboard/psychiater-aha.mp3"
+                 type="audio/mpeg">
       <guid>psychiater-aha.mp3</guid>
     </item>
     <item>
       <title>sarah-hey_thats_cool.mp3</title>
-      <enclosure url=https://asozial.org/kaenguru-soundboard/sarah-hey_thats_cool.mp3
-                 type=audio/mpeg>
+      <enclosure url="https://asozial.org/kaenguru-soundboard/sarah-hey_thats_cool.mp3"
+                 type="audio/mpeg">
       <guid>sarah-hey_thats_cool.mp3</guid>
     </item>
     <item>
       <title>sarah-i_love_life.mp3</title>
-      <enclosure url=https://asozial.org/kaenguru-soundboard/sarah-i_love_life.mp3
-                 type=audio/mpeg>
+      <enclosure url="https://asozial.org/kaenguru-soundboard/sarah-i_love_life.mp3"
+                 type="audio/mpeg">
       <guid>sarah-i_love_life.mp3</guid>
     </item>
     <item>
       <title>sarah-thats_amazing-its-like_you_know_i_idk_kind_of_like_whatever_and_stuff.mp3</title>
-      <enclosure url=https://asozial.org/kaenguru-soundboard/sarah-thats_amazing-its-like_you_know_i_idk_kind_of_like_whatever_and_stuff.mp3
-                 type=audio/mpeg>
+      <enclosure url="https://asozial.org/kaenguru-soundboard/sarah-thats_amazing-its-like_you_know_i_idk_kind_of_like_whatever_and_stuff.mp3"
+                 type="audio/mpeg">
       <guid>sarah-thats_amazing-its-like_you_know_i_idk_kind_of_like_whatever_and_stuff.mp3</guid>
     </item>
     <item>
       <title>sarah-the_world_is_so_beautiful.mp3</title>
-      <enclosure url=https://asozial.org/kaenguru-soundboard/sarah-the_world_is_so_beautiful.mp3
-                 type=audio/mpeg>
+      <enclosure url="https://asozial.org/kaenguru-soundboard/sarah-the_world_is_so_beautiful.mp3"
+                 type="audio/mpeg">
       <guid>sarah-the_world_is_so_beautiful.mp3</guid>
     </item>
     <item>
       <title>sarah-well_thats_just_like_you_know_amazing.mp3</title>
-      <enclosure url=https://asozial.org/kaenguru-soundboard/sarah-well_thats_just_like_you_know_amazing.mp3
-                 type=audio/mpeg>
+      <enclosure url="https://asozial.org/kaenguru-soundboard/sarah-well_thats_just_like_you_know_amazing.mp3"
+                 type="audio/mpeg">
       <guid>sarah-well_thats_just_like_you_know_amazing.mp3</guid>
     </item>
     <item>
       <title>sarah-yes_its_just_perfect.mp3</title>
-      <enclosure url=https://asozial.org/kaenguru-soundboard/sarah-yes_its_just_perfect.mp3
-                 type=audio/mpeg>
+      <enclosure url="https://asozial.org/kaenguru-soundboard/sarah-yes_its_just_perfect.mp3"
+                 type="audio/mpeg">
       <guid>sarah-yes_its_just_perfect.mp3</guid>
     </item>
     </channel>
