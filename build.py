@@ -13,4 +13,4 @@ for book in info["bücher"]:
         output.write("### " + chapter["name"] + "\n")
         for file in chapter["dateien"]:
             output.write("- " + persons[file.split("-")[0]] + ": \"[" + file.split("-")[1].replace("_", " ") + "](files/" + file + ".mp3)\"\n\n")
-            output.write("<audio controls><source src='files/" + file + "' type='audio/mpeg'></audio>\n")
+            output.write("<audio controls><source src='files/" + file + ".mp3' type='audio/mpeg'></audio>\n")
