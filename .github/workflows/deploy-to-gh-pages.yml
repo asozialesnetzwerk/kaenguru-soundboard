@@ -21,7 +21,7 @@ jobs:
               run: |
                 cd rss
                 cp ../files/* ./
-                find *.mp3/ | xargs -L1 ./makeitem.sh | ./makefeed.sh > feed.rss
+                find *.mp3 | xargs -L1 ./makeitem.sh | ./makefeed.sh > feed.rss
                 cd ../
                 cp rss/feed.rss build/feed.rss
 
