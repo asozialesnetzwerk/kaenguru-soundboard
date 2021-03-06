@@ -26,7 +26,7 @@ items = ""
 for book in files["bücher"]:
     bookname = book["name"]
     for chapter in book["kapitel"]:
-        chaptername = chapter["name"]
+        chaptername = chapter["name"].split(":")[0]
         for file in chapter["dateien"]:
             items += itemstring.format(title=titlestring.format(book=bookname, chapter=chaptername, filename=file), filename=file) + "\n"
 
