@@ -40,9 +40,9 @@
 
 <audio controls><source src='files/känguru-alles_kapitalismus_alles_nestle_alles_hähnchen.mp3' type='audio/mpeg'></audio>
 ### Kapitel 4 - 69 Cent pro Minute: (Sehr alte Version)
-- Das Känguru: "[ja ja.mp3](files/känguru-ja_ja.mp3.mp3)"
+- Das Känguru: "[ja ja](files/känguru-ja_ja.mp3)"
 
-<audio controls><source src='files/känguru-ja_ja.mp3.mp3' type='audio/mpeg'></audio>
+<audio controls><source src='files/känguru-ja_ja.mp3' type='audio/mpeg'></audio>
 ### Kapitel 44 - Eine nette Teegesellschaft:
 - Der Psychiater: "[aha](files/psychiater-aha.mp3)"
 
