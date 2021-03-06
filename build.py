@@ -1,6 +1,6 @@
 import json
 
-output = open("index.md", "w+")
+output = open("build/index.md", "w+")
 
 with open('info.json', 'r') as myfile:
     info = json.loads(myfile.read())
