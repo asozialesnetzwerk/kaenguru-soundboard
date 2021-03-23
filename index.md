@@ -111,15 +111,15 @@
 
 <audio controls><source src='files/sarah-hey_thats_cool.mp3' type='audio/mpeg'></audio>
 
-- Das Känguru: »[This kinda feels really awesome!](files/känguru-this_kinda_feels_really_awesome.mp3)«
+- Das Känguru: »[This kinda feels really really awesome!](files/känguru-this_kinda_feels_really_really_awesome.mp3)«
 
-<audio controls><source src='files/känguru-this_kinda_feels_really_awesome.mp3' type='audio/mpeg'></audio>
+<audio controls><source src='files/känguru-this_kinda_feels_really_really_awesome.mp3' type='audio/mpeg'></audio>
 
 - Das Känguru: »[I love it!](files/känguru-i_love_it.mp3)«
 
 <audio controls><source src='files/känguru-i_love_it.mp3' type='audio/mpeg'></audio>
 
-- Das Känguru: »[I'm so happy for no reason but i dont care!](files/känguru-im_so_happy_for_no_reason_but_i_dont_care.mp3)«
+- Das Känguru: »[I'm so happy for no reason but i don't care!](files/känguru-im_so_happy_for_no_reason_but_i_dont_care.mp3)«
 
 <audio controls><source src='files/känguru-im_so_happy_for_no_reason_but_i_dont_care.mp3' type='audio/mpeg'></audio>
 
