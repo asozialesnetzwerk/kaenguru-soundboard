@@ -32,7 +32,7 @@ for book in files["bücher"]:
     for chapter in book["kapitel"]:
         chapter_name = chapter["name"].split(":")[0]
         for file_text in chapter["dateien"]:
-            file = re.sub(r"[^a-zäöüß_-]+", "", file_text.lower().replace(" ", "_"))
+            file = re.sub(r"[^a-zäöüß0-9_-]+", "", file_text.lower().replace(" ", "_"))
             title_file_name = persons[file_text.split("-")[0]] + ": »" + file_text.split("-")[1] + "«"
             items += item_string.format(title=title_string.format(book=book_name, chapter=chapter_name, file_name=title_file_name), file_name=file) + "\n"
 
