@@ -24,7 +24,7 @@ jobs:
             - name: Copy files
               run: |
                 cp -r files build/files
-                echo "theme: jekyll-theme-midnight" > build/_config.yml
+                cp _config.yml build/
 
             - name: Deploy
               uses: peaceiris/actions-gh-pages@v3
