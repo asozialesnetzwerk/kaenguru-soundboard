@@ -89,9 +89,9 @@
 
 <audio controls><source src='files/sarah-the_world_is_so_beautiful.mp3' type='audio/mpeg'></audio>
 
-- Sarah: »[That's amazing, it's like you know I Idk kind of like whatever and stuff.](files/sarah-thats_amazing_its_like_you_know_i_idk_kind_of_like_whatever_and_stuff.mp3)«
+- Sarah: »[That's amazing, it's like you know I don't know kind of like whatever and stuff.](files/sarah-thats_amazing_its_like_you_know_i_dont_know_kind_of_like_whatever_and_stuff.mp3)«
 
-<audio controls><source src='files/sarah-thats_amazing_its_like_you_know_i_idk_kind_of_like_whatever_and_stuff.mp3' type='audio/mpeg'></audio>
+<audio controls><source src='files/sarah-thats_amazing_its_like_you_know_i_dont_know_kind_of_like_whatever_and_stuff.mp3' type='audio/mpeg'></audio>
 
 ### [🔗](#-teil-2-kapitel-7---das-zähe-verfließen-der-zeit-genannt-leben) Teil 2, Kapitel 7 - Das zähe Verfließen der Zeit, genannt Leben:
 - Marc-Uwe Kling: »[I am bored!](files/muk-i_am_bored.mp3)«
