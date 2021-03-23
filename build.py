@@ -18,7 +18,8 @@ for book in info["bücher"]:
         output.write("### " + linkify(chapter["name"]) + chapter["name"] + "\n")
         for file_text in chapter["dateien"]:
             file = re.sub(r"[^a-zäöüß0-9_-]+", "", file_text.lower().replace(" ", "_"))
-            output.write("- " + persons[file_text.split("-")[0]]
+            person = persons[file_text.split("-")[0]]
+            output.write("- " + person
                          + ": »[" + file_text.split("-")[1]
                          + "](files/" + file + ".mp3)«\n\n")
             output.write("<audio controls><source src='files/" + file + ".mp3' type='audio/mpeg'></audio>\n\n")
