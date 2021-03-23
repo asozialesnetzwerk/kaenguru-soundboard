@@ -1,6 +1,6 @@
 # Känguru-Soundboard:
-## [🔗](#die-känguru-chroniken) Die Känguru-Chroniken
-### [🔗](#kapitel-1---das-känguru-von-gegenüber-sehr-alte-version) Kapitel 1 - Das Känguru von gegenüber: (Sehr alte Version)
+## [🔗](#-die-känguru-chroniken) Die Känguru-Chroniken
+### [🔗](#-kapitel-1---das-känguru-von-gegenüber-sehr-alte-version) Kapitel 1 - Das Känguru von gegenüber: (Sehr alte Version)
 - Marc-Uwe Kling: »[Ja, herzlich willkommen!](files/muk-ja_herzlich_willkommen.mp3)«
 
 <audio controls><source src='files/muk-ja_herzlich_willkommen.mp3' type='audio/mpeg'></audio>
@@ -21,7 +21,7 @@
 
 <audio controls><source src='files/känguru-aber_nicht_zu_lidl.mp3' type='audio/mpeg'></audio>
 
-### [🔗](#kapitel-2---kleinkunst-sehr-alte-version) Kapitel 2 - Kleinkunst: (Sehr alte Version)
+### [🔗](#-kapitel-2---kleinkunst-sehr-alte-version) Kapitel 2 - Kleinkunst: (Sehr alte Version)
 - Das Känguru: »[Ich bin Kommunist.](files/känguru-ich_bin_kommunist.mp3)«
 
 <audio controls><source src='files/känguru-ich_bin_kommunist.mp3' type='audio/mpeg'></audio>
@@ -42,7 +42,7 @@
 
 <audio controls><source src='files/muk-von_mir_aus.mp3' type='audio/mpeg'></audio>
 
-### [🔗](#kapitel-3---tütensuppentotalitarismus-sehr-alte-version) Kapitel 3 - Tütensuppentotalitarismus: (Sehr alte Version)
+### [🔗](#-kapitel-3---tütensuppentotalitarismus-sehr-alte-version) Kapitel 3 - Tütensuppentotalitarismus: (Sehr alte Version)
 - Das Känguru: »[Ich darf nich und ich will nich.](files/känguru-ich_darf_nich_und_ich_will_nich.mp3)«
 
 <audio controls><source src='files/känguru-ich_darf_nich_und_ich_will_nich.mp3' type='audio/mpeg'></audio>
@@ -51,24 +51,24 @@
 
 <audio controls><source src='files/känguru-alles_kapitalismus_alles_nestle_alles_hähnchen.mp3' type='audio/mpeg'></audio>
 
-### [🔗](#kapitel-4---69-cent-pro-minute-sehr-alte-version) Kapitel 4 - 69 Cent pro Minute: (Sehr alte Version)
+### [🔗](#-kapitel-4---69-cent-pro-minute-sehr-alte-version) Kapitel 4 - 69 Cent pro Minute: (Sehr alte Version)
 - Das Känguru: »[Ja! Ja!](files/känguru-ja_ja.mp3)«
 
 <audio controls><source src='files/känguru-ja_ja.mp3' type='audio/mpeg'></audio>
 
-### [🔗](#kapitel-44---eine-nette-teegesellschaft) Kapitel 44 - Eine nette Teegesellschaft:
+### [🔗](#-kapitel-44---eine-nette-teegesellschaft) Kapitel 44 - Eine nette Teegesellschaft:
 - Der Psychiater: »[Aha!](files/psychiater-aha.mp3)«
 
 <audio controls><source src='files/psychiater-aha.mp3' type='audio/mpeg'></audio>
 
-## [🔗](#das-känguru-manifest) Das Känguru-Manifest
-### [🔗](#kapitel-1---intro) Kapitel 1 - Intro:
+## [🔗](#-das-känguru-manifest) Das Känguru-Manifest
+### [🔗](#-kapitel-1---intro) Kapitel 1 - Intro:
 - Marc-Uwe Kling: »[Für nichts und wieder nichts.](files/muk-für_nichts_und_wieder_nichts.mp3)«
 
 <audio controls><source src='files/muk-für_nichts_und_wieder_nichts.mp3' type='audio/mpeg'></audio>
 
-## [🔗](#die-känguru-offenbarung) Die Känguru-Offenbarung
-### [🔗](#teil-2-kapitel-5---whatever) Teil 2, Kapitel 5 - Whatever:
+## [🔗](#-die-känguru-offenbarung) Die Känguru-Offenbarung
+### [🔗](#-teil-2-kapitel-5---whatever) Teil 2, Kapitel 5 - Whatever:
 - Marc-Uwe Kling: »[I'm just here for the famous breakfast.](files/muk-im_just_here_for_the_famous_breakfast.mp3)«
 
 <audio controls><source src='files/muk-im_just_here_for_the_famous_breakfast.mp3' type='audio/mpeg'></audio>
@@ -93,7 +93,7 @@
 
 <audio controls><source src='files/sarah-thats_amazing-its-like_you_know_i_idk_kind_of_like_whatever_and_stuff.mp3' type='audio/mpeg'></audio>
 
-### [🔗](#teil-2-kapitel-7---das-zähe-verfließen-der-zeit-genannt-leben) Teil 2, Kapitel 7 - Das zähe Verfließen der Zeit, genannt Leben:
+### [🔗](#-teil-2-kapitel-7---das-zähe-verfließen-der-zeit-genannt-leben) Teil 2, Kapitel 7 - Das zähe Verfließen der Zeit, genannt Leben:
 - Marc-Uwe Kling: »[I am bored!](files/muk-i_am_bored.mp3)«
 
 <audio controls><source src='files/muk-i_am_bored.mp3' type='audio/mpeg'></audio>
@@ -102,7 +102,7 @@
 
 <audio controls><source src='files/muk-i_am_bored_in_the_usa.mp3' type='audio/mpeg'></audio>
 
-### [🔗](#teil-2-kapitel-13---die-durch-die-hölle-gehen) Teil 2, Kapitel 13 - Die durch die Hölle gehen:
+### [🔗](#-teil-2-kapitel-13---die-durch-die-hölle-gehen) Teil 2, Kapitel 13 - Die durch die Hölle gehen:
 - Sarah: »[Well that's just like you know amazing!](files/sarah-well_thats_just_like_you_know_amazing.mp3)«
 
 <audio controls><source src='files/sarah-well_thats_just_like_you_know_amazing.mp3' type='audio/mpeg'></audio>
@@ -123,8 +123,8 @@
 
 <audio controls><source src='files/känguru-im_so_happy_for_no_reason_but_i_dont_care.mp3' type='audio/mpeg'></audio>
 
-## [🔗](#die-känguru-apokryphen) Die Känguru-Apokryphen
-### [🔗](#kapitel-12---dabei) Kapitel 12 - Dabei
+## [🔗](#-die-känguru-apokryphen) Die Känguru-Apokryphen
+### [🔗](#-kapitel-12---dabei) Kapitel 12 - Dabei
 - Friedrich-Wilhelm: »[Ihr linken intellektuellen Fuzzies.](files/fw-ihr_linken_intellektuellen_fuzzies.mp3)«
 
 <audio controls><source src='files/fw-ihr_linken_intellektuellen_fuzzies.mp3' type='audio/mpeg'></audio>
@@ -141,12 +141,12 @@
 
 <audio controls><source src='files/muk-über_mich_hat_die_zeit_geschrieben_dass_ich_der_wahrscheinlich_einflussreichste_linke_interlektulelle_deutschlands_sei.mp3' type='audio/mpeg'></audio>
 
-### [🔗](#kapitel-34---einfach-so) Kapitel 34 - Einfach so:
+### [🔗](#-kapitel-34---einfach-so) Kapitel 34 - Einfach so:
 - Dietmar Kötke: »[Ich hab seine Hausaufgaben aufgegessen.](files/dietmar-ich_hab_seine_hausaufgaben_aufgegessen.mp3)«
 
 <audio controls><source src='files/dietmar-ich_hab_seine_hausaufgaben_aufgegessen.mp3' type='audio/mpeg'></audio>
 
-### [🔗](#kapitel-48---die-neue-nachbarin) Kapitel 48 - Die neue Nachbarin:
+### [🔗](#-kapitel-48---die-neue-nachbarin) Kapitel 48 - Die neue Nachbarin:
 - Marc-Uwe Kling: »[Und da ist mir aufgefallen, dass ich keine Eier hab.](files/muk-und_da_ist_mir_aufgefallen_dass_ich_keine_eier_hab.mp3)«
 
 <audio controls><source src='files/muk-und_da_ist_mir_aufgefallen_dass_ich_keine_eier_hab.mp3' type='audio/mpeg'></audio>
