@@ -7,7 +7,7 @@ with open('info.json', 'r') as myfile:
     info = json.loads(myfile.read())
 
 def linkify(val):
-    return "[🔗](#" + re.sub(r"[^a-zäöüß0-9-]", "", val.lower().replace(" ", "-")) + ") "
+    return "[🔗](#-" + re.sub(r"[^a-zäöüß0-9-]", "", val.lower().replace(" ", "-")) + ") "
 
 
 persons = info["personen"]
