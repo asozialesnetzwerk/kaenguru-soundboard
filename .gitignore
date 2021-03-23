@@ -1,3 +1,4 @@
 build/*
 *.rss
 rss/*.mp3
+.idea
