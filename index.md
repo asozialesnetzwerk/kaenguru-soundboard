@@ -124,6 +124,23 @@
 <audio controls><source src='files/känguru-im_so_happy_for_no_reason_but_i_dont_care.mp3' type='audio/mpeg'></audio>
 
 ## Die Känguru-Apokryphen
+### Kapitel 12 - Dabei
+- Friedrich-Wilhelm: "[ihr linken intellektuellen fuzzies](files/fw-ihr_linken_intellektuellen_fuzzies.mp3)"
+
+<audio controls><source src='files/fw-ihr_linken_intellektuellen_fuzzies.mp3' type='audio/mpeg'></audio>
+
+- Das Känguru: "[wird sind keine intellektuellen](files/känguru-wird_sind_keine_intellektuellen.mp3)"
+
+<audio controls><source src='files/känguru-wird_sind_keine_intellektuellen.mp3' type='audio/mpeg'></audio>
+
+- Marc-Uwe Kling: "[sprich bitte nur für dich](files/muk-sprich_bitte_nur_für_dich.mp3)"
+
+<audio controls><source src='files/muk-sprich_bitte_nur_für_dich.mp3' type='audio/mpeg'></audio>
+
+- Marc-Uwe Kling: "[über mich hat die zeit geschrieben dass ich der wahrscheinlich einflussreichste linke interlektulelle deutschlands sein](files/muk-über_mich_hat_die_zeit_geschrieben_dass_ich_der_wahrscheinlich_einflussreichste_linke_interlektulelle_deutschlands_sein.mp3)"
+
+<audio controls><source src='files/muk-über_mich_hat_die_zeit_geschrieben_dass_ich_der_wahrscheinlich_einflussreichste_linke_interlektulelle_deutschlands_sein.mp3' type='audio/mpeg'></audio>
+
 ### Kapitel 34 - Einfach so:
 - Dietmar Kötke: "[ich hab seine hausaufgaben aufgegessen](files/dietmar-ich_hab_seine_hausaufgaben_aufgegessen.mp3)"
 
