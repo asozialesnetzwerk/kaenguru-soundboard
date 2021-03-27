@@ -20,6 +20,6 @@ for book in info["bücher"]:
             file = re.sub(r"[^a-zäöüß0-9_-]+", "", file_text.lower().replace(" ", "_"))
             person = persons[file_text.split("-")[0]]
             output.write("- " + person
-                         + ": »[" + file_text.split("-")[1]
+                         + ": »[" + file_text.split("-", 1)[1]
                          + "](files/" + file + ".mp3)«\n\n")
             output.write("<audio controls><source src='files/" + file + ".mp3' type='audio/mpeg'></audio>\n\n")

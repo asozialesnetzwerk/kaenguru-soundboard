@@ -33,7 +33,7 @@ for book in files["bücher"]:
         chapter_name = chapter["name"].split(":")[0]
         for file_text in chapter["dateien"]:
             file = re.sub(r"[^a-zäöüß0-9_-]+", "", file_text.lower().replace(" ", "_"))
-            title_file_name = persons[file_text.split("-")[0]] + ": »" + file_text.split("-")[1] + "«"
+            title_file_name = persons[file_text.split("-", 1)[0]] + ": »" + file_text.split("-", 1)[1] + "«"
             items += item_string.format(title=title_string.format(book=book_name, chapter=chapter_name, file_name=title_file_name), file_name=file) + "\n"
 
 with open("feed.rss", "w") as feed:
