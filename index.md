@@ -56,6 +56,11 @@
 
 <audio controls><source src='files/känguru-ja_ja.mp3' type='audio/mpeg'></audio>
 
+### [🔗](#-kapitel-11---jüdisch-bolschewistische-weltverschwörung-ev) Kapitel 11 - Jüdisch-bolschewistische Weltverschwörung e.V
+- Marc-Uwe Kling: »[Du bist also Teil der jüdisch-bolschewistischen Weltverschörung?](files/muk-du_bist_also_teil_der_jüdisch-bolschewistischen_weltverschörung.mp3)«
+
+<audio controls><source src='files/muk-du_bist_also_teil_der_jüdisch-bolschewistischen_weltverschörung.mp3' type='audio/mpeg'></audio>
+
 ### [🔗](#-kapitel-44---eine-nette-teegesellschaft) Kapitel 44 - Eine nette Teegesellschaft:
 - Der Psychiater: »[Aha!](files/psychiater-aha.mp3)«
 
