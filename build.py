@@ -26,7 +26,7 @@ item_string = '''    <item>
 title_string = "[{book}, {chapter}] {file_name}"
 
 os.makedirs("build", exist_ok=True)
-index_md = ""
+index_md = "---\ntitle: \"Känguru-Soundboard\"\ndescription: \"Coole Sprüche/Sounds aus den Känguru-Chroniken.\"\n---\n"
 
 with open('info.json', 'r') as my_file:
     info = json.loads(my_file.read())
@@ -73,7 +73,7 @@ for key in persons_stuff:
     _dir = "build/" + key
     os.makedirs(_dir, exist_ok=True)
     person = persons[key].replace("Das", "dem").replace("Der", "dem").replace("Die", "der")
-    content = "---\ndescription: \"Coole Sprüche/Sounds von " + person + " aus den Känguru-Chroniken.\"\n---\n" \
+    content = "---\ntitle: \"Känguru-Soundboard\"\ndescription: \"Coole Sprüche/Sounds von " + person + " aus den Känguru-Chroniken.\"\n---\n" \
               + "# " + persons[key] + "\n\n" \
               + persons_stuff[key].replace("(files/", "(../files/").replace("src='files/", "src='../files/")
     open(_dir + "/index.md", "w+").write(content)
