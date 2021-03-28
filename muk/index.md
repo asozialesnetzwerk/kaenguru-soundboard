@@ -1,4 +1,5 @@
 ---
+title: "Känguru-Soundboard"
 description: "Coole Sprüche/Sounds von Marc-Uwe Kling aus den Känguru-Chroniken."
 ---
 # Marc-Uwe Kling

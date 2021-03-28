@@ -1,4 +1,5 @@
 ---
+title: "Känguru-Soundboard"
 description: "Coole Sprüche/Sounds von dem Psychiater aus den Känguru-Chroniken."
 ---
 # Der Psychiater

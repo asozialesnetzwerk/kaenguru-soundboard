@@ -1,4 +1,5 @@
 ---
+title: "Känguru-Soundboard"
 description: "Coole Sprüche/Sounds von Maria (Gott) aus den Känguru-Chroniken."
 ---
 # Maria (Gott)

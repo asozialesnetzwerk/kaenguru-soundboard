@@ -1,3 +1,7 @@
+---
+title: "Känguru-Soundboard"
+description: "Coole Sprüche/Sounds aus den Känguru-Chroniken."
+---
 # Känguru-Soundboard:
 ## [🔗](#-die-känguru-chroniken) Die Känguru-Chroniken
 ### [🔗](#-kapitel-1---das-känguru-von-gegenüber-sehr-alte-version) Kapitel 1 - Das Känguru von gegenüber: (Sehr alte Version)

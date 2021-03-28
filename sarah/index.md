@@ -1,4 +1,5 @@
 ---
+title: "Känguru-Soundboard"
 description: "Coole Sprüche/Sounds von Sarah aus den Känguru-Chroniken."
 ---
 # Sarah

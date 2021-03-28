@@ -1,4 +1,5 @@
 ---
+title: "Känguru-Soundboard"
 description: "Coole Sprüche/Sounds von dertmar Kötke aus den Känguru-Chroniken."
 ---
 # Dietmar Kötke

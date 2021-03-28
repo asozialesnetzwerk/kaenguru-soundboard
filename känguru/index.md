@@ -1,4 +1,5 @@
 ---
+title: "Känguru-Soundboard"
 description: "Coole Sprüche/Sounds von dem Känguru aus den Känguru-Chroniken."
 ---
 # Das Känguru
