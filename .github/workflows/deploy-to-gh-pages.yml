@@ -13,9 +13,7 @@ jobs:
               uses: actions/checkout@v2
 
             - name: Build
-              run: |
-                mkdir build
-                python3 build.py
+              run: python3 build.py
 
             - name: Create feed.rss
               run: |
