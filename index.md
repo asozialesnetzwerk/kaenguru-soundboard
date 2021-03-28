@@ -73,6 +73,10 @@
 
 <audio controls><source src='files/känguru-man_darf_nie_aufhören_alles_kritisch_zu_hinterfragen.mp3' type='audio/mpeg'></audio>
 
+- Das Känguru: »[Wir kämpen für eine gerechte Weltordnung, Brot für alle und die Ächtung von sogennanntem Musikfernsehen](files/känguru-wir_kämpen_für_eine_gerechte_weltordnung_brot_für_alle_und_die_ächtung_von_sogennanntem_musikfernsehen.mp3)«
+
+<audio controls><source src='files/känguru-wir_kämpen_für_eine_gerechte_weltordnung_brot_für_alle_und_die_ächtung_von_sogennanntem_musikfernsehen.mp3' type='audio/mpeg'></audio>
+
 ### [🔗](#-kapitel-44---eine-nette-teegesellschaft) Kapitel 44 - Eine nette Teegesellschaft:
 - Der Psychiater: »[Aha!](files/psychiater-aha.mp3)«
 
