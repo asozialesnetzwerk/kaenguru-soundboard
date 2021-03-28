@@ -3,6 +3,6 @@ title: "Känguru-Soundboard"
 description: "Coole Sprüche/Sounds aus den Känguru-Chroniken."
 show_header: false
 colorspace: red
-icon: files/icon.svg
+icon: icon.svg
 kramdown:
   auto_ids: true

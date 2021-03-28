@@ -15,15 +15,6 @@ jobs:
             - name: Build
               run: ./build.py
 
-            - name: Create feed.rss
-              run: |
-                ./rss/createfeeds.py
-                cp feed.rss build/feed.rss
-            - name: Copy files
-              run: |
-                cp -r files build/files
-                cp _config.yml build/
-
             - name: Deploy
               uses: peaceiris/actions-gh-pages@v3
               with:
