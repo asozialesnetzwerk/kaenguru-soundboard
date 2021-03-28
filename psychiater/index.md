@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Coole Sprüche/Sounds von Der Psychiater aus den Känguru-Chroniken."
 ---
 # Der Psychiater

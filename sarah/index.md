@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Coole Sprüche/Sounds von Sarah aus den Känguru-Chroniken."
 ---
 # Sarah

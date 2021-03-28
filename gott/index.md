@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Coole Sprüche/Sounds von Maria (Gott) aus den Känguru-Chroniken."
 ---
 # Maria (Gott)

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Coole Sprüche/Sounds von Dietmar Kötke aus den Känguru-Chroniken."
 ---
 # Dietmar Kötke
