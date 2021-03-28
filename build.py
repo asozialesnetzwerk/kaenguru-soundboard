@@ -72,7 +72,8 @@ open("build/index.md", "w+").write(index_md)
 for key in persons_stuff:
     _dir = "build/" + key
     os.makedirs(_dir, exist_ok=True)
-    content = "---\ntitle: \"Coole Sprüche/Sounds von " + persons[key] + " aus den Känguru-Chroniken.\"\n---\n" \
+    person = persons[key].replace("Das", "dem").replace("Der", "dem").replace("Die", "der")
+    content = "---\ntitle: \"Coole Sprüche/Sounds von " + person + " aus den Känguru-Chroniken.\"\n---\n" \
               + "# " + persons[key] + "\n\n" \
               + persons_stuff[key].replace("(files/", "(../files/").replace("src='files/", "src='../files/")
     open(_dir + "/index.md", "w+").write(content)
