@@ -26,7 +26,7 @@ item_string = '''    <item>
 title_string = "[{book}, {chapter}] {file_name}"
 
 os.makedirs("build", exist_ok=True)
-index_md = open("build/index.md", "w+")
+index_md = ""
 
 with open('info.json', 'r') as my_file:
     info = json.loads(my_file.read())
@@ -40,13 +40,13 @@ rss_items = ""
 
 persons_stuff = {}
 persons = info["personen"]
-index_md.write("# Känguru-Soundboard:\n")
+index_md += "# Känguru-Soundboard:\n"
 for book in info["bücher"]:
     book_name = book["name"]
-    index_md.write("## " + linkify(book_name) + book_name + "\n")
+    index_md += "## " + linkify(book_name) + book_name + "\n"
     for chapter in book["kapitel"]:
         chapter_name = chapter["name"]
-        index_md.write("### " + linkify(chapter_name) + chapter_name + "\n")
+        index_md += "### " + linkify(chapter_name) + chapter_name + "\n"
         for file_text in chapter["dateien"]:
             file = re.sub(r"[^a-zäöüß0-9_-]+", "", file_text.lower().replace(" ", "_"))
             person = file_text.split("-")[0]
@@ -57,21 +57,25 @@ for book in info["bücher"]:
                        + file \
                        + ".mp3' type='audio/mpeg'></audio>\n\n"
 
-            persons_stuff[person] = persons_stuff.get(person, "# " + persons[person] + "\n\n") \
-                                    + "- " + persons[person] + to_write
-            index_md.write("- [" + persons[person] + "](" + person + ")" + to_write)
+            persons_stuff[person] = persons_stuff.get(person, "") + "- " + persons[person] + to_write
+            index_md += "- [" + persons[person] + "](" + person + ")" + to_write
             # rss:
             title_file_name = persons[file_text.split("-", 1)[0]] + ": »" + file_text.split("-", 1)[1] + "«"
             rss_items += item_string.format(
                 title=title_string.format(book=book_name, chapter=chapter_name.split(":")[0],
                                           file_name=title_file_name), file_name=file) + "\n"
 
+# write main page:
+open("build/index.md", "w+").write(index_md)
+
 # pages for every person:
 for key in persons_stuff:
     _dir = "build/" + key
     os.makedirs(_dir, exist_ok=True)
-    open(_dir + "/index.md", "w+").write(
-        persons_stuff[key].replace("(files/", "(../files/").replace("src='files/", "src='../files/"))
+    content = "layout: page\ntitle: \"Coole Sprüche/Sounds von " + persons[key] + " aus den Känguru-Chroniken.\"\n\n" \
+              + "# " + persons[key] + "\n\n" \
+              + persons_stuff[key].replace("(files/", "(../files/").replace("src='files/", "src='../files/")
+    open(_dir + "/index.md", "w+").write(content)
 
 # write rss:
 with open("build/feed.rss", "w") as feed:

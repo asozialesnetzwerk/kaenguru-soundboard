@@ -4,5 +4,6 @@ description: "Coole Sprüche/Sounds aus den Känguru-Chroniken."
 show_header: false
 colorspace: red
 icon: icon.svg
+markdown: kramdown
 kramdown:
   auto_ids: true
