@@ -1,5 +1,5 @@
 ---
-title: "Coole Sprüche/Sounds von dertmar Kötke aus den Känguru-Chroniken."
+description: "Coole Sprüche/Sounds von dertmar Kötke aus den Känguru-Chroniken."
 ---
 # Dietmar Kötke
 

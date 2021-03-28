@@ -1,5 +1,5 @@
 ---
-title: "Coole Sprüche/Sounds von Friedrich-Wilhelm aus den Känguru-Chroniken."
+description: "Coole Sprüche/Sounds von Friedrich-Wilhelm aus den Känguru-Chroniken."
 ---
 # Friedrich-Wilhelm
 

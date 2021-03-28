@@ -1,5 +1,5 @@
 ---
-title: "Coole Sprüche/Sounds von Sarah aus den Känguru-Chroniken."
+description: "Coole Sprüche/Sounds von Sarah aus den Känguru-Chroniken."
 ---
 # Sarah
 

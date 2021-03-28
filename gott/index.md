@@ -1,5 +1,5 @@
 ---
-title: "Coole Sprüche/Sounds von Maria (Gott) aus den Känguru-Chroniken."
+description: "Coole Sprüche/Sounds von Maria (Gott) aus den Känguru-Chroniken."
 ---
 # Maria (Gott)
 

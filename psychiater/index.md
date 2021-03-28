@@ -1,5 +1,5 @@
 ---
-title: "Coole Sprüche/Sounds von dem Psychiater aus den Känguru-Chroniken."
+description: "Coole Sprüche/Sounds von dem Psychiater aus den Känguru-Chroniken."
 ---
 # Der Psychiater
 
