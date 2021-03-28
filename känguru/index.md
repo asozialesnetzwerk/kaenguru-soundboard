@@ -1,3 +1,6 @@
+layout: page
+title: "Coole Sprüche/Sounds von Das Känguru aus den Känguru-Chroniken."
+
 # Das Känguru
 
 - Das Känguru: »[Hallo!](../files/känguru-hallo.mp3)«

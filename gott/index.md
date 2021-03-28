@@ -1,3 +1,6 @@
+layout: page
+title: "Coole Sprüche/Sounds von Maria (Gott) aus den Känguru-Chroniken."
+
 # Maria (Gott)
 
 - Maria (Gott): »[So, so, du hast also keine Eier?](../files/gott-so_so_du_hast_also_keine_eier.mp3)«

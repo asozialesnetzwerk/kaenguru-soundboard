@@ -1,3 +1,6 @@
+layout: page
+title: "Coole Sprüche/Sounds von Marc-Uwe Kling aus den Känguru-Chroniken."
+
 # Marc-Uwe Kling
 
 - Marc-Uwe Kling: »[Ja, herzlich willkommen!](../files/muk-ja_herzlich_willkommen.mp3)«
