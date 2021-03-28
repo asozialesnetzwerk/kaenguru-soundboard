@@ -46,7 +46,7 @@ for book in info["bücher"]:
     index_md.write("## " + linkify(book_name) + book_name + "\n")
     for chapter in book["kapitel"]:
         chapter_name = chapter["name"]
-        index_md.write("### " + linkify(chapter_name) + chapter_name + ":\n")
+        index_md.write("### " + linkify(chapter_name) + chapter_name + "\n")
         for file_text in chapter["dateien"]:
             file = re.sub(r"[^a-zäöüß0-9_-]+", "", file_text.lower().replace(" ", "_"))
             person = file_text.split("-")[0]
