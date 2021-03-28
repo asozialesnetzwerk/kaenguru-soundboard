@@ -1,7 +1,7 @@
 remote_theme: "dracula/gh-pages"
 title: "Känguru-Soundboard"
 description: "Coole Sprüche/Sounds aus den Känguru-Chroniken."
-show_header: "false"
-colorspace: "red"
+show_header: false
+colorspace: red
 kramdown:
   auto_ids: true
