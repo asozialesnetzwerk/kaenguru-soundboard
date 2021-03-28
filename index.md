@@ -65,6 +65,10 @@
 
 <audio controls><source src='files/muk-und_mich_dann_auch_noch_beschneiden_lassen.mp3' type='audio/mpeg'></audio>
 
+- Das Känguru: »[Das ist freiwillig!](files/känguru-das_ist_freiwillig.mp3)«
+
+<audio controls><source src='files/känguru-das_ist_freiwillig.mp3' type='audio/mpeg'></audio>
+
 ### [🔗](#-kapitel-44---eine-nette-teegesellschaft) Kapitel 44 - Eine nette Teegesellschaft:
 - Der Psychiater: »[Aha!](files/psychiater-aha.mp3)«
 
