@@ -1,6 +1,7 @@
+---
 layout: page
 title: "Coole Sprüche/Sounds von Sarah aus den Känguru-Chroniken."
-
+---
 # Sarah
 
 - Sarah: »[I love life!](../files/sarah-i_love_life.mp3)«

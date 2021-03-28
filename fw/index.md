@@ -1,6 +1,7 @@
+---
 layout: page
 title: "Coole Sprüche/Sounds von Friedrich-Wilhelm aus den Känguru-Chroniken."
-
+---
 # Friedrich-Wilhelm
 
 - Friedrich-Wilhelm: »[Ihr linken intellektuellen Fuzzies.](../files/fw-ihr_linken_intellektuellen_fuzzies.mp3)«
