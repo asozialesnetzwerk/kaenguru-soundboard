@@ -1,5 +1,5 @@
 ---
-title: "Coole Sprüche/Sounds von Das Känguru aus den Känguru-Chroniken."
+title: "Coole Sprüche/Sounds von dem Känguru aus den Känguru-Chroniken."
 ---
 # Das Känguru
 
