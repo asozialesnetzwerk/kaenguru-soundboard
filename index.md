@@ -69,6 +69,10 @@
 
 <audio controls><source src='files/känguru-das_ist_freiwillig.mp3' type='audio/mpeg'></audio>
 
+- Das Känguru: »[Man darf nie aufhören alles kritisch zu hinterfragen!](files/känguru-man_darf_nie_aufhören_alles_kritisch_zu_hinterfragen.mp3)«
+
+<audio controls><source src='files/känguru-man_darf_nie_aufhören_alles_kritisch_zu_hinterfragen.mp3' type='audio/mpeg'></audio>
+
 ### [🔗](#-kapitel-44---eine-nette-teegesellschaft) Kapitel 44 - Eine nette Teegesellschaft:
 - Der Psychiater: »[Aha!](files/psychiater-aha.mp3)«
 
