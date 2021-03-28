@@ -33,7 +33,7 @@ with open('info.json', 'r') as my_file:
 
 
 def linkify(val):
-    return "[\uD83D\uDD17](#-{0}) ".format(re.sub(r"[^a-zäöüß0-9-]", "", val.lower().replace(" ", "-")))
+    return "[🔗](#-{0}) ".format(re.sub(r"[^a-zäöüß0-9-]", "", val.lower().replace(" ", "-")))
 
 
 rss_items = ""
