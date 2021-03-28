@@ -56,6 +56,10 @@
 
 <audio controls><source src='files/känguru-wir_kämpen_für_eine_gerechte_weltordnung_brot_für_alle_und_die_ächtung_von_sogennanntem_musikfernsehen.mp3' type='audio/mpeg'></audio>
 
+- Das Känguru: »[Finsterstes Mittelalter, Alter!](../files/känguru-finsterstes_mittelalter_alter.mp3)«
+
+<audio controls><source src='files/känguru-finsterstes_mittelalter_alter.mp3' type='audio/mpeg'></audio>
+
 - Das Känguru: »[This kinda feels really really awesome!](../files/känguru-this_kinda_feels_really_really_awesome.mp3)«
 
 <audio controls><source src='files/känguru-this_kinda_feels_really_really_awesome.mp3' type='audio/mpeg'></audio>
