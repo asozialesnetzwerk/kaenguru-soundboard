@@ -13,11 +13,11 @@ jobs:
               uses: actions/checkout@v2
 
             - name: Build
-              run: python3 build.py
+              run: ./build.py
 
             - name: Create feed.rss
               run: |
-                python3 rss/createfeeds.py
+                ./rss/createfeeds.py
                 cp feed.rss build/feed.rss
             - name: Copy files
               run: |
