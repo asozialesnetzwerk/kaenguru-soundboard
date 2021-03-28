@@ -36,5 +36,5 @@ for book in info["bücher"]:
 for key in persons_stuff:
     _dir = "build/" + key
     os.makedirs(_dir, exist_ok=True)
-    open(_dir + "/index.md", "w+").write(persons_stuff[key].replace("(files/", "(../files/"))
+    open(_dir + "/index.md", "w+").write(persons_stuff[key].replace("(files/", "(../files/").replace("src='files/", "src='../files/"))
 
