@@ -3,6 +3,7 @@
     "muk": "Marc-Uwe Kling",
     "känguru": "Das Känguru",
     "gott": "Maria (Gott)",
+    "jesus": "Jesus",
     "fw": "Friedrich-Wilhelm",
     "otto": "Otto-Von",
     "pinguin": "Der Pinguin",
@@ -121,12 +122,19 @@
       "name": "Die Känguru-Apokryphen",
       "kapitel": [
         {
-          "name": "Kapitel 12 - Dabei",
+          "name": "Kapitel 12 - Dabei:",
           "dateien": [
             "fw-Ihr linken intellektuellen Fuzzies.",
             "känguru-Wir sind keine Intellektuellen.",
             "muk-Sprich bitte nur für dich.",
             "muk-Über mich hat die Zeit geschrieben, dass ich der wahrscheinlich einflussreichste linke Interlektulelle Deutschlands sei."
+          ]
+        },
+        {
+          "name": "Kapitel 27 - Kleine Künstler:",
+          "dateien": [
+            "gott-Das ist privat!",
+            "jesus-Guck mal, was ich kann!"
           ]
         },
         {
