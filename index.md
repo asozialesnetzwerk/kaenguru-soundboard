@@ -153,7 +153,7 @@ description: "Coole Sprüche/Sounds aus den Känguru-Chroniken."
 <audio controls><source src='files/känguru-im_so_happy_for_no_reason_but_i_dont_care.mp3' type='audio/mpeg'></audio>
 
 ## [🔗](#-die-känguru-apokryphen) Die Känguru-Apokryphen
-### [🔗](#-kapitel-12---dabei) Kapitel 12 - Dabei
+### [🔗](#-kapitel-12---dabei) Kapitel 12 - Dabei:
 - [Friedrich-Wilhelm](fw): »[Ihr linken intellektuellen Fuzzies.](files/fw-ihr_linken_intellektuellen_fuzzies.mp3)«
 
 <audio controls><source src='files/fw-ihr_linken_intellektuellen_fuzzies.mp3' type='audio/mpeg'></audio>
@@ -169,6 +169,15 @@ description: "Coole Sprüche/Sounds aus den Känguru-Chroniken."
 - [Marc-Uwe Kling](muk): »[Über mich hat die Zeit geschrieben, dass ich der wahrscheinlich einflussreichste linke Interlektulelle Deutschlands sei.](files/muk-über_mich_hat_die_zeit_geschrieben_dass_ich_der_wahrscheinlich_einflussreichste_linke_interlektulelle_deutschlands_sei.mp3)«
 
 <audio controls><source src='files/muk-über_mich_hat_die_zeit_geschrieben_dass_ich_der_wahrscheinlich_einflussreichste_linke_interlektulelle_deutschlands_sei.mp3' type='audio/mpeg'></audio>
+
+### [🔗](#-kapitel-27---kleine-künstler) Kapitel 27 - Kleine Künstler:
+- [Maria (Gott)](gott): »[Das ist privat!](files/gott-das_ist_privat.mp3)«
+
+<audio controls><source src='files/gott-das_ist_privat.mp3' type='audio/mpeg'></audio>
+
+- [Jesus](jesus): »[Guck mal, was ich kann!](files/jesus-guck_mal_was_ich_kann.mp3)«
+
+<audio controls><source src='files/jesus-guck_mal_was_ich_kann.mp3' type='audio/mpeg'></audio>
 
 ### [🔗](#-kapitel-34---einfach-so) Kapitel 34 - Einfach so:
 - [Dietmar Kötke](dietmar): »[Ich hab seine Hausaufgaben aufgegessen.](files/dietmar-ich_hab_seine_hausaufgaben_aufgegessen.mp3)«
