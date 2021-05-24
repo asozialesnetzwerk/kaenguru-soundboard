@@ -7,10 +7,10 @@ import shutil
 rss_string = '''<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Kaenguru Soundboard</title>
-    <description>Ein Soundboard zu den Känguru Chroniken</description>
+    <title>Kaenguru Soundboard{extra_title}</title>
+    <description>Ein Soundboard zu den Känguru Chroniken{extra_desc}</description>
     <language>de-de</language>
-    <link>https://asozial.org/kaenguru-soundboard</link>
+    <link>https://asozial.org/kaenguru-soundboard/{extra_link}</link>
     {items}
   </channel>
 </rss>
@@ -39,6 +39,7 @@ def linkify(val):
 rss_items = ""
 
 persons_stuff = {}
+persons_rss = {}
 persons = info["personen"]
 index_md += "# Känguru-Soundboard:\n"
 for book in info["bücher"]:
@@ -61,9 +62,11 @@ for book in info["bücher"]:
             index_md += "- [" + persons[person] + "](" + person + ")" + to_write
             # rss:
             title_file_name = persons[file_text.split("-", 1)[0]] + ": »" + file_text.split("-", 1)[1] + "«"
-            rss_items += item_string.format(
+            rss = item_string.format(
                 title=title_string.format(book=book_name, chapter=chapter_name.split(":")[0],
                                           file_name=title_file_name), file_name=file) + "\n"
+            rss_items += rss
+            persons_rss[person] = persons_rss.get(person, "") + rss
 
 # write main page:
 open("build/index.md", "w+").write(index_md)
@@ -77,10 +80,16 @@ for key in persons_stuff:
               + "# " + persons[key] + "\n\n" \
               + persons_stuff[key].replace("(files/", "(../files/").replace("src='files/", "src='../files/")
     open(_dir + "/index.md", "w+").write(content)
+    # rss for every person:
+    open(_dir + "/feed.rss", "w+")\
+        .write(rss_string.format(items=persons_rss[key],
+                                 extra_title=(" (Coole Sprüche/Sounds von " + person + ")"),
+                                 extra_desc=" mit coolen Sprüchen/Sounds von " + person,
+                                 extra_link=key))
 
 # write rss:
 with open("build/feed.rss", "w") as feed:
-    feed.write(rss_string.format(items=rss_items))
+    feed.write(rss_string.format(items=rss_items, extra_title="", extra_desc="", extra_link=""))
 
 # copy files to build folder:
 shutil.copytree("files", "build/files", dirs_exist_ok=True)
