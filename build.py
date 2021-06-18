@@ -63,6 +63,9 @@ html_string = '''
         .a_hover:hover {{
             text-decoration: underline;
         }}
+        h1 {{
+            color: var(--red);
+        }}
     </style>
 </head>
 <body>
@@ -130,7 +133,7 @@ for book in info["bücher"]:
             persons_stuff[person] = f"{persons_stuff.get(person, '')}<li>{persons[person]}" \
                                     f"{to_write}</li>"
 
-            index_html += f"<li>{create_anchor(person, persons[person], 'var(--blue)')}" \
+            index_html += f"<li>{create_anchor(person, persons[person], 'var(--light-red)')}" \
                           f"{to_write}</li>"
             # rss:
             title_file_name = persons[file_text.split("-", 1)[0]] + ": »" + file_text.split("-", 1)[
