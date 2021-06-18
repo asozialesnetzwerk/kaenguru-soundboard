@@ -57,10 +57,10 @@ html_string = '''
             left: 50%;
             transform: translateX(-50%);
         }}
-        .heading_a {{
+        .a_hover {{
             text-decoration: none;
         }}
-        .heading_a:hover {{
+        .a_hover:hover {{
             text-decoration: underline;
         }}
     </style>
@@ -97,14 +97,14 @@ def name_to_id(val):
     return re.sub(r"[^a-zäöüß0-9-]", "", val.lower().replace(" ", "-"))
 
 
-def create_anchor(href, inner_html, color="var(--red)", classes=""):
+def create_anchor(href, inner_html, color="var(--red)", classes="a_hover"):
     return f"<a href='{href}' class='{classes}' style='color: {color};'>{inner_html}</a>"
 
 
 def create_heading(heading_type, text):
     el_id = name_to_id(text)
     return f"<{heading_type} id='{el_id}'>" \
-           f"{create_anchor('#' + el_id, '🔗 ' + book_name, classes='heading_a')}" \
+           f"{create_anchor('#' + el_id, '🔗 ' + book_name)}" \
            f"</{heading_type}>"
 
 
