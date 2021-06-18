@@ -150,6 +150,8 @@ for book in info["bücher"]:
 open("build/index.html", "w+").write(html_string.format(extra_title="", extra_desc="",
                                                         extra_link="", content=index_html))
 
+persons_html = "<h1>Känguru-Soundboard</h1>"
+
 # pages for every person:
 for key in persons_stuff:
     _dir = "build/" + key
@@ -163,12 +165,20 @@ for key in persons_stuff:
     open(_dir + "/index.html", "w+").write(html_string.format(extra_title=extra_title,
                                                               extra_desc=extra_desc,
                                                               extra_link=key, content=content))
+
+    # page with sounds sorted by persons:
+    persons_html += create_heading("h2", persons[key]) + persons_stuff[key]
+
     # rss for every person:
     open(_dir + "/feed.rss", "w+") \
         .write(rss_string.format(items=persons_rss[key],
                                  extra_title=extra_title,
                                  extra_desc=extra_desc,
                                  extra_link=key))
+
+# write persons page:
+open("build/persons.html", "w+").write(html_string.format(extra_title="", extra_desc="",
+                                                          extra_link="", content=persons_html))
 
 # write rss:
 with open("build/feed.rss", "w") as feed:
