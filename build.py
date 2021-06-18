@@ -98,13 +98,13 @@ def name_to_id(val):
 
 
 def create_anchor(href, inner_html, color="var(--red)", classes=""):
-    return f"<a href='#{href}' class='{classes}' style='color: {color};'>{inner_html}</a>"
+    return f"<a href='{href}' class='{classes}' style='color: {color};'>{inner_html}</a>"
 
 
 def create_heading(heading_type, text):
     el_id = name_to_id(text)
     return f"<{heading_type} id='{el_id}'>" \
-           f"{create_anchor(el_id, '🔗 ' + book_name, classes='heading_a')}" \
+           f"{create_anchor('#' + el_id, '🔗 ' + book_name, classes='heading_a')}" \
            f"</{heading_type}>"
 
 
