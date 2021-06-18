@@ -18,9 +18,10 @@ rss_string = '''<?xml version="1.0" encoding="UTF-8"?>
 
 item_string = '''    <item>
       <title>{title}</title>
+      <link>https://asozial.org/kaenguru-soundboard/files/{file_name}.mp3</link>
       <enclosure url="https://asozial.org/kaenguru-soundboard/files/{file_name}.mp3"
                  type="audio/mpeg">
-      <guid>{file_name}</guid>
+      <guid>{file_name}</guid>          
     </item>'''
 
 title_string = "[{book}, {chapter}] {file_name}"
