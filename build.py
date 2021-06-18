@@ -122,7 +122,7 @@ for book in info["bücher"]:
         index_html += create_heading("h3", chapter_name) + "<ul>"
         for file_text in chapter["dateien"]:
             file = re.sub(r"[^a-zäöüß0-9_-]+", "", file_text.lower().replace(" ", "_"))
-            full_file = f"files/{file}.mp3«"
+            full_file = f"files/{file}.mp3"
             person = file_text.split("-")[0]
             to_write = f": »{create_anchor(full_file, file_text.split('-', 1)[1], 'var(--light-grey)')}" \
                        f"«<br><audio controls><source src='{full_file}' type='audio/mpeg'></audio>"
