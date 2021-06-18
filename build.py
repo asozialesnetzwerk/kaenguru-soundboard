@@ -128,14 +128,13 @@ for book in info["bücher"]:
             file = re.sub(r"[^a-zäöüß0-9_-]+", "", file_text.lower().replace(" ", "_"))
             full_file = f"files/{file}.mp3"
             person = file_text.split("-")[0]
-            to_write = f": »{create_anchor(full_file, file_text.split('-', 1)[1], 'var(--light-grey)')}" \
+            to_write = f"»{create_anchor(full_file, file_text.split('-', 1)[1], 'var(--light-grey)')}" \
                        f"«<br><audio controls><source src='{full_file}' type='audio/mpeg'></audio>"
 
-            persons_stuff[person] = f"{persons_stuff.get(person, '')}<li>{persons[person]}" \
-                                    f"{to_write}</li>"
+            persons_stuff[person] = f"{persons_stuff.get(person, '')}<li>{to_write}</li>"
 
             index_html += f"<li>{create_anchor(person, persons[person], 'var(--light-red)')}" \
-                          f"{to_write}</li>"
+                          f": {to_write}</li>"
             # rss:
             title_file_name = persons[file_text.split("-", 1)[0]] + ": »" + file_text.split("-", 1)[
                 1] + "«"
