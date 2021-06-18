@@ -7,7 +7,7 @@ import shutil
 rss_string = '''<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Kaenguru Soundboard{extra_title}</title>
+    <title>Kaenguru-Soundboard{extra_title}</title>
     <description>Ein Soundboard zu den Känguru Chroniken{extra_desc}</description>
     <language>de-de</language>
     <link>https://asozial.org/kaenguru-soundboard/{extra_link}</link>
@@ -34,8 +34,8 @@ html_string = '''
     <meta name="theme-color" content="#8B0000">
     <meta property="og:url" content="https://asozial.org/kaenguru-soundboard/{extra_link}" />
     <meta property="og:type" content="website" />
-    <title>Känguru Soundboard{extra_title}</title>
-    <meta property="og:title" content="Känguru Soundboard{extra_title}" />
+    <title>Känguru-Soundboard{extra_title}</title>
+    <meta property="og:title" content="Känguru-Soundboard{extra_title}" />
     <meta property="og:description" content="Ein Soundboard zu den Känguru Chroniken{extra_desc}" />
     <style>
         :root {{
