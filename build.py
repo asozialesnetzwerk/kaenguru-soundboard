@@ -155,7 +155,7 @@ for key in persons_stuff:
     _dir = "build/" + key
     os.makedirs(_dir, exist_ok=True)
     person = persons[key].replace("Das", "dem").replace("Der", "dem").replace("Die", "der")
-    content = "<h1>" + persons[key] + "</h1>" \
+    content = "<h1>Känguru-Soundboard</h1><h2>" + persons[key] + "</h2>" \
               + persons_stuff[key].replace("(files/", "(../files/").replace("src='files/",
                                                                             "src='../files/")
     extra_title = " (Coole Sprüche/Sounds von " + person + ")"
