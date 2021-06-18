@@ -107,7 +107,7 @@ def create_anchor(href, inner_html, color="var(--red)", classes="a_hover"):
 def create_heading(heading_type, text):
     el_id = name_to_id(text)
     return f"<{heading_type} id='{el_id}'>" \
-           f"{create_anchor('#' + el_id, '🔗 ' + book_name)}" \
+           f"{create_anchor('#' + el_id, '🔗 ' + text)}" \
            f"</{heading_type}>"
 
 
